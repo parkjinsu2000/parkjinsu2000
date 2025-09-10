@@ -24,3 +24,13 @@
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+
+
+
+### 🛠️ IDE  
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat&logo=arduino&logoColor=white)  
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-00AEEF?style=flat&logo=stmicroelectronics&logoColor=white)  
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-00AEEF?style=flat&logo=stmicroelectronics&logoColor=white)  
+![Vivado](https://img.shields.io/badge/Vivado-7AC70C?style=flat&logo=xilinx&logoColor=white)  
