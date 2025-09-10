@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/your-custom-link)
+
+
 ## 🧠 Tech Stack
 
 ### 💻 Language  
