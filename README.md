@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/your-custom-link)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)]([https://www.notion.so/your-custom-link](https://www.notion.so/HOME-1d083b1c8dc280478768f9af98cf7ba6))
 
 
 ## 🧠 Tech Stack
