@@ -9,6 +9,7 @@
 ### 🖥️ OS & Terminal  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-000000?style=flat&logo=linux&logoColor=white) 
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
 ### 📦 Library & Framework  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) 
