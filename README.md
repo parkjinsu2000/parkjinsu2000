@@ -4,6 +4,11 @@
 [🔗 My Notion Workspace](https://www.notion.so/HOME-1d083b1c8dc280478768f9af98cf7ba6)
 
 
+### 🔗 Featured Contributions  
+- [Intelproject5 (Team Repo)](https://github.com/parkjinsu2000/Intelproject5)
+- [2024_A.RM.I (Collab)](https://github.com/KimTeddy/2024_A.RM.I)
+
+
 
 ## 🧠 Tech Stack
 
